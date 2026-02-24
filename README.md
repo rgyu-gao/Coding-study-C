@@ -3,8 +3,6 @@ title: Programming of C test
 
 ---
 
-# Coding-study-C
-記錄我的C語言練習題目
 # 💻 C 語言學習與題目練習紀錄
 
 這是我記錄 C 語言基礎語法練習的倉庫，內容包含原始碼與邏輯流程圖。
