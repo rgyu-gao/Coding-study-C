@@ -13,9 +13,9 @@ int main(){
     int num;
     for(num=100;num<1000;num++){
         //先判斷水仙花數的成立條件 （優先拆分）
-        int a = num % 10;
-        int b = (num / 10) % 10;
-        int c = num /100;
+        int a = num % 10; // 個位
+        int b = (num / 10) % 10; // 十位
+        int c = num /100; // 百位
 
         int a3 = a * a * a;
         int b3 = b * b * b;
