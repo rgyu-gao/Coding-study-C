@@ -14,7 +14,7 @@
 
 | 題號 | 題目名稱 | 原始碼 | 備註 |
 | :--- | :--- | :--- | :--- |
-| **P1** | 水仙花數（Narcissistic number） | [Code](./水仙花數（Narcissistic number))| 🟢 運用迴圈在區間自動搜尋符合定義之數值。 🟡 練習使用運算子拆解三位數之位數。  |
+| **P1** | 水仙花數（Narcissistic number） || 🟢 運用迴圈在區間自動搜尋符合定義之數值。 🟡 練習使用運算子拆解三位數之位數。  |
 | **P2** | 尋找完美數 (Perfect Number) |||
 | **P3** | 判斷迴文數 (Palindrome Number) |||
 | **P4** | 費氏數列 (Fibonacci Sequence) |||
