@@ -12,10 +12,10 @@
 
 ## 📚 題目進度表
 
-| 題號 | 題目名稱 | 原始碼 | 邏輯流程圖 | 備註 |
-| :--- | :--- | :--- | :--- | :--- |
-| **P1-1** | 水仙花數搜尋 | [Code](./Syntax_test/p1-1.c) | [Flowchart](./diagrams/p1-1.png) | 🟢 運用 `for` 迴圈在 100-999 區間自動搜尋符合定義之數值。 |
-| **P1-2** | 水仙花數判定 | [Code](./Syntax_test/p1-2.c) | [Flowchart](./diagrams/p1-2.png) | 🟡 練習使用 `/` 與 `%` 運算子拆解三位數之位數。 |
+| 題號 | 題目名稱 | 原始碼 | 備註 |
+| :--- | :--- | :--- | :--- |
+| **P1-1** | 水仙花數搜尋 | [Code]([./Syntax_test/p1-1.c](https://github.com/rgyu-gao/Coding-study-C/tree/main/水仙花數（Narcissistic%20number）)) | 🟢 運用 `for` 迴圈在 100-999 區間自動搜尋符合定義之數值。 |
+| **P1-2** | 水仙花數判定 | [Code](./Syntax_test/p1-2.c) | 🟡 練習使用 `/` 與 `%` 運算子拆解三位數之位數。 |
 
 
 ---
